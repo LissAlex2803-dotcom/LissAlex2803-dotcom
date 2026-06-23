@@ -1,4 +1,4 @@
-![Banner](https://github.com/LissAlex2803-dotcom/LissAlex2803-dotcom/assets/banner.png)
+
 
 ## 🌟 Sobre mí
 # 👋 Hola, soy Liss Fabiola  
