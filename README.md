@@ -1,3 +1,4 @@
+## 🌟 Sobre mí
 # 👋 Hola, soy Liss Fabiola  
 Estudiante de la Academia Conquer Blocks.  
 💻 Aprendiendo desarrollo web y control de versiones con Git y GitHub.  
@@ -13,18 +14,23 @@ Estudiante de la Academia Conquer Blocks.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+⭐ ⭐ ⭐
 
-## 🔧 Proyectos destacados
-- [empresa_virtual](https://github.com/LissAlex2803-dotcom/empresa_virtual): simulación de empresa para practicar Git.  
-- [clase10_practica_pc2](https://github.com/LissAlex2803-dotcom/clase10_practica_pc2): ejercicios de ramas y merges.  
-- [proyecto-colaborativo1](https://github.com/LissAlex2803-dotcom/proyecto-colaborativo1): flujo colaborativo con forks y pull requests.
+## 🚧 Proyectos destacados
+📁 [empresa_virtual](https://github.com/LissAlex2803-dotcom/empresa_virtual): simulación de empresa para practicar Git.  
+🌿 [clase10_practica_pc2](https://github.com/LissAlex2803-dotcom/clase10_practica_pc2): ejercicios de ramas y merges.  
+🤝 [proyecto-colaborativo1](https://github.com/LissAlex2803-dotcom/proyecto-colaborativo1): flujo colaborativo con forks y pull requests.
+
 
 ---
+⭐ ⭐ ⭐
+
 
 ## 📊 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissAlex2803-dotcom&show_icons=true&theme=tokyonight)
 
 ---
+⭐ ⭐ ⭐
 
 ## 💬 Contacto
 📧 lissfabiola@gmail.com  
